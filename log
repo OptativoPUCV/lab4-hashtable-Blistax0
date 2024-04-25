@@ -14,3 +14,13 @@ Thu 25 Apr 2024 09:36:49 PM UTC:
  tests:  5|4
 total_score: 30/70
 3688463
+Thu 25 Apr 2024 09:42:20 PM UTC: 
+ hashmap.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+In file included from test.c:4:
+hashmap.c: In function ‘insertMap’:
+hashmap.c:44:9: error: break statement not within loop or switch
+   44 |         break;
+      |         ^~~~~
+Compilation failed
+a9c52d0

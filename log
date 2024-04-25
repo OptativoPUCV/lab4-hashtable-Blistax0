@@ -24,3 +24,9 @@ hashmap.c:44:9: error: break statement not within loop or switch
       |         ^~~~~
 Compilation failed
 a9c52d0
+Thu 25 Apr 2024 09:42:43 PM UTC: 
+ hashmap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  5|4
+total_score: 30/70
+19458e2
